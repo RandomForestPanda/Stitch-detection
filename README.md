@@ -1,1 +1,1 @@
-# Stich-detection
+# Stitch-detection
